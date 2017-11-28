@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Hi, I'm George Morgan
 
-You can use the [editor on GitHub](https://github.com/georgemorgan/homepage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#### I like to do awesome projects that involve both hardware and software.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can find my resume [here](http://george-morgan.com/resume.pdf).
 
-### Markdown
+I publish many of the projects that I work on [GitHub](https://github.com/georgemorgan/). However, I currently have some projects under wraps. If you want to know more about my company, [flipper](https://github.com/georgemorgan/), send me an email and I'd be happy to talk to you about it!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<george@george-morgan.com>
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+### My Projects
 
-- Bulleted
-- List
+#### r64 - A Nintendo 64 emulator written in Rust.
 
-1. Numbered
-2. List
+I wanted to learn how to do low level CPU emulation in Rust, so I decided to create a VR4300i emulator using the programming language. As some of you may know, this is the RISC MIPS64 CPU used in the Nintendo 64. After hacking at the CPU for a while, I decided to turn the project into a "verbose and unoptimized Nintendo 64 emulator". The project has no goals of cycle accurate emulation, supporting more games than Super Mario 64, or competing with established Nintendo 64 emulators. This project was simply an execrise to create the foundation of a more complex console emulator to superscede my NES emulator.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/georgemorgan/homepage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can check out the project [here](https://github.com/georgemorgan/r64).
