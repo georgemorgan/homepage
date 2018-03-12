@@ -2,9 +2,25 @@
 
 ### I like to do awesome projects that involve both hardware and software.
 
+Check out my latest project at [flipper.io](http://flipper.io).
+
+### Resume
+
 You can find my resume [here](http://george-morgan.com/resume.pdf).
 
-I publish many of the projects that I work on [GitHub](https://github.com/georgemorgan/). However, I currently have some projects under wraps. If you want to know more about my company, [flipper.io](http://flipper.io), send me an email and I'd be happy to talk to you about it!
+### GitHub
+
+I publish many of the projects that I work on [GitHub](https://github.com/georgemorgan/).
+
+### Embedded Operating System
+
+View the souce code to my embedded operating system and development tools at [https://github.com/flipper-io/flipper](https://github.com/flipper-io/flipper).
+
+### Embedded Development Platform
+
+View the hardware CAD files for my embedded development platform at [https://github.com/flipper-io/carbon](https://github.com/flipper-io/carbon).
+
+#### Email Me
 
 <george@george-morgan.com>
 
